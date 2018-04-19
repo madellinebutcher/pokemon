@@ -19,22 +19,22 @@ body, html {
     width: 100vw;
 }
 .fa-leaf{
-    margin-top: 25vh;
+    margin-top: 20vh;
     margin-left: 8vw;
     color: green;
 }
 .fa-fire{
-    margin-top:25vh;
+    margin-top:20vh;
     margin-left: 9vw;
     color: red;
 }
 .fa-tint{
-    margin-top:25vh;
+    margin-top:20vh;
     margin-left: 9vw;
     color: blue;
 }
 .fa-bolt{
-    margin-top:25vh;
+    margin-top:20vh;
     margin-left: 10vw;
     color: yellow;
 }
@@ -59,4 +59,39 @@ body, html {
 }
 .btn-primary2{
     margin-left:7vw;
+}
+.image-3{
+    background-image: url("../pokeball-banner.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vh;
+}
+.updates{
+    text-align:center;
+    color:white;
+}
+.email{
+    text-align:center;
+}
+.updates2{
+    margin-top:9vh;
+}
+.news{
+    font-size: .5rem;
+}
+.platforms{
+    text-align:center;
+    color:white;
+    margin-top:9vh;
+    margin-left:2vw;
+}
+.icon2{
+    font-size:3rem;
+    color:white;
+    margin-top:2vh;
+    margin-right:2vw;
+}
+.fa-twitter{
+    margin-left:17vw;
 }
