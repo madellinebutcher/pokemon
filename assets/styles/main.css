@@ -60,7 +60,7 @@ body, html {
 .btn-primary2{
     margin-left:7vw;
 }
-.image-4{
+.image4{
     background-image: url("../pokeball-banner.png");
     background-position: center;
     background-repeat: no-repeat;
@@ -95,4 +95,20 @@ body, html {
 }
 .fa-twitter{
     margin-left:17vw;
+    color:lightblue;
+}
+.fa-instagram{
+    color:rgb(170, 61, 61);
+}
+.image5{
+    display:inline;
+    height:50vh;
+}
+.card-img-top{
+    width:10vw;
+    position:center;
+    margin-left:10vw;
+}
+.empty{
+    background-color: rgb(219, 219, 219);
 }
