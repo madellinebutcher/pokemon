@@ -1,0 +1,62 @@
+body, html {
+    height:100%;
+}
+.image1{
+    background-image: url("../starter-pokemons.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.words1{
+    margin-top: 65vh;
+    
+}
+.image2{
+    background-color:white;
+    height: 75vh;
+    width: 100vw;
+}
+.fa-leaf{
+    margin-top: 25vh;
+    margin-left: 8vw;
+    color: green;
+}
+.fa-fire{
+    margin-top:25vh;
+    margin-left: 9vw;
+    color: red;
+}
+.fa-tint{
+    margin-top:25vh;
+    margin-left: 9vw;
+    color: blue;
+}
+.fa-bolt{
+    margin-top:25vh;
+    margin-left: 10vw;
+    color: yellow;
+}
+.icon{
+    font-size:5rem;
+}
+.main{
+    text-align: center;
+ 
+}
+.main2{
+    text-align: justify;
+}
+.btn-danger{
+    margin-left:8vw;
+} 
+.btn-warning{
+    margin-left:7vw;
+}
+.btn-success{
+    margin-left:7vw;
+}
+.btn-primary2{
+    margin-left:7vw;
+}
