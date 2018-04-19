@@ -72,7 +72,8 @@ body, html {
     color:white;
 }
 .email{
-    text-align:center;
+    margin-left: 11vw;
+    width: 25vw;
 }
 .updates2{
     margin-top:9vh;
